@@ -1,0 +1,28 @@
+_repo: History-of-the-War-Between-Mexico-and-the-United-States-with-a-Preliminary-View-of-its-Origin__33568
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Mayer, Brantz
+    birthdate: 1809
+    deathdate: 1879
+    gutenberg_agent_id: '25637'
+    url: http://www.gutenberg.org/2009/agents/25637
+    wikipedia: https://en.wikipedia.org/wiki/Brantz_Mayer
+description: ''
+gutenberg_issued: '2010-08-29'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '33568'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'E300'
+- !lcsh 'Mexican War, 1846-1848'
+title: History of the War Between Mexico and the United States, with a Preliminary
+  View of its Origin, Volume 1
+url: http://www.gutenberg.org/ebooks/33568
